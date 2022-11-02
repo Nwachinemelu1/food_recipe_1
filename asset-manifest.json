@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/food_recipe_1/static/css/main.a5dc5667.chunk.css",
+    "main.js": "/food_recipe_1/static/js/main.0e880ae9.chunk.js",
+    "main.js.map": "/food_recipe_1/static/js/main.0e880ae9.chunk.js.map",
+    "runtime-main.js": "/food_recipe_1/static/js/runtime-main.3dc177a6.js",
+    "runtime-main.js.map": "/food_recipe_1/static/js/runtime-main.3dc177a6.js.map",
+    "static/js/2.82eb1893.chunk.js": "/food_recipe_1/static/js/2.82eb1893.chunk.js",
+    "static/js/2.82eb1893.chunk.js.map": "/food_recipe_1/static/js/2.82eb1893.chunk.js.map",
+    "index.html": "/food_recipe_1/index.html",
+    "static/css/main.a5dc5667.chunk.css.map": "/food_recipe_1/static/css/main.a5dc5667.chunk.css.map",
+    "static/js/2.82eb1893.chunk.js.LICENSE.txt": "/food_recipe_1/static/js/2.82eb1893.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dc177a6.js",
+    "static/js/2.82eb1893.chunk.js",
+    "static/css/main.a5dc5667.chunk.css",
+    "static/js/main.0e880ae9.chunk.js"
+  ]
+}
